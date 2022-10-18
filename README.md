@@ -1,7 +1,7 @@
 
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiSubin%20&desc=ClinetDeveloper&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiSubin%20&desc=GameClientDeveloper&fontSize=90)
 
 <br>
 <h2>🗃My Stacks</h2>
