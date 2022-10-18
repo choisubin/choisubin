@@ -28,6 +28,6 @@
 <h2>⚙My GitHub Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisubin&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisubin&layout=compact)](https://github.com/choisubin/github-readme-stats)
 
 </div>
