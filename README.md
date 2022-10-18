@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiSubin%20&desc=ClinetDeveloper&fontSize=90)
-<div align = "center">
-<h2>⚙My GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisubin&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align = "center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiSubin%20&desc=ClinetDeveloper&fontSize=90)
 
 <br>
 <h2>🗃My Stacks</h2>
@@ -25,4 +23,11 @@
   
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chsbin99)](https://solved.ac/chsbin99)
+
+
+<h2>⚙My GitHub Stats</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisubin&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
