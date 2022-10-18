@@ -1,7 +1,7 @@
 
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiSubin%20&desc=GameClientDeveloper&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiSubin%20&desc=Junior%20GameClientDeveloper&fontSize=60)
 <h1></h1>
 <h3>🗃My Stacks</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
